@@ -5,10 +5,7 @@
 
 This repository contains a collection of n8n automation templates sourced from the internet. These templates are designed to help automate a wide range of tasks and workflows using [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe), making it easier for users to discover and use ready-made automations for various platforms and services.
 
-👉 [Join n8n and start automating now! 💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
-</a>
+
 
 
 ---
@@ -31,8 +28,6 @@ All automation templates in this repository were found online and are uploaded h
 🤖 Want to translate, rewrite, and repost Twitter (X) threads automatically?
 
 Looking to effortlessly transform and publish entire Twitter (X) threads in multiple languages?  
-Check out my [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Twitter Thread (Flood) Translator & Poster workflow—it automates extraction, translation, rewriting, and posting in one seamless process.  
-Perfect for creators, marketers, and anyone aiming to reach new audiences with minimal effort and ultra-low cost!
 
 👉 [Try the workflow here](https://n8n.io/workflows/4233-translate-and-repost-twitter-threads-in-multiple-languages-with-openai/)
 
@@ -332,10 +327,6 @@ If you would like to contribute additional templates or suggest new categories, 
 
 ---
 
-👉 [Join n8n and start automating now! 💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
-</a>
 
 ---
 
